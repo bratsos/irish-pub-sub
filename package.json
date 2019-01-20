@@ -1,0 +1,16 @@
+{
+  "name": "irish-pub-sub",
+  "version": "1.0.4",
+  "description": "🍀146b Pubsub system",
+  "main": "index.js",
+  "repository": "https://github.com/bratsos/irish-pubsub",
+  "author": "Alex Bratsos <alexisbratsos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^1.1.1",
+    "rollup-plugin-terser": "^4.0.2"
+  }
+}

@@ -1,0 +1,1 @@
+!function(e,f){"object"==typeof exports&&"undefined"!=typeof module?module.exports=f():"function"==typeof define&&define.amd?define(f):(e=e||self).irishPubSub=f()}(this,function(){"use strict";return(e={})=>[(f,o)=>(e[f]||(e[f]=[])).push(o)&&(()=>e[f].sort(e=>e===o?1:-1).pop()&&"eff off"),(f,o)=>(e[f]||[]).forEach(e=>e(o))]});
