@@ -1,6 +1,6 @@
 {
   "name": "irish-pub-sub",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "🍀146b Pubsub system",
   "main": "index.js",
   "repository": "https://github.com/bratsos/irish-pubsub",
