@@ -13,7 +13,7 @@ Modern (es6) functional Pubsub system (no `class`, or `this`), weights about 133
 
 or with UMD
 
-`<script scr="https://unpkg.com/irish-pub-sub/dist/index.min.umd.js"></script>`
+`<script scr="https://unpkg.com/irish-pub-sub/dist/index.umd.js"></script>`
 
 <h2>Usage</h2>
 
