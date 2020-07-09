@@ -20,7 +20,7 @@ or with UMD
 ```javascript
 import pubsub from 'irish-pub-sub'
 
-const [subscribe, emit] = pubsub()
+const [subscribe, send] = pubsub()
 
 const unsbuscribe = subscribe('The Dreadnoughts', (val) => console.log('The Dreadnoughts: ', val)) // returns unsubscribe method
 send('Dreadnoughts', 'Best band ever') // => The Dreadnoughts: Best band ever
