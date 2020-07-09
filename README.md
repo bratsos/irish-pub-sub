@@ -2,15 +2,15 @@
   <h1>🍀 Irish PubSub - 97b pubsub system</h1>
   <br>
   <a href="https://unpkg.com/irish-pub-sub/dist/index.min.umd.js">
-    <img src="http://img.badgesize.io/https://unpkg.com/irish-pub-sub@1.1.0/dist/index.min.js?compression=gzip" alt="gzip size">
+    <img src="http://img.badgesize.io/https://unpkg.com/irish-pub-sub@1.1.1/dist/index.min.js?compression=gzip" alt="gzip size">
   </a>
   <a href="https://unpkg.com/irish-pub-sub/dist/index.min.umd.js">
-    <img src="http://img.badgesize.io/https://unpkg.com/irish-pub-sub@1.1.0/dist/index.min.js?compression=brotli" alt="brotli size">
+    <img src="http://img.badgesize.io/https://unpkg.com/irish-pub-sub@1.1.1/dist/index.min.js?compression=brotli" alt="brotli size">
   </a>
   <a href="https://packagephobia.now.sh/result?p=irish-pub-sub">
     <img src="https://packagephobia.now.sh/badge?p=irish-pub-sub" alt="install size">
   </a>
-</p>
+</p>1
 
 
 Modern (es6) functional Pubsub system (no `class`, or `this`), weights about 97b minified + gzipped.
