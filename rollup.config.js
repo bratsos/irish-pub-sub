@@ -1,7 +1,8 @@
 import { terser } from "rollup-plugin-terser";
+import typescript from '@rollup/plugin-typescript';
 
 module.exports = {
-  input: './index.js',
+  input: './index.ts',
   output: [
     {
       file: 'dist/index.min.js',
@@ -15,6 +16,7 @@ module.exports = {
     }
   ],
   plugins: [
-    terser({ ecma: 5})
+    typescript(),
+    terser()
   ]
 }
